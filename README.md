@@ -1,2 +1,2 @@
-# Apriori_C-ver1.0
+# Apriori_CSharp_01
 Apriori, C# ,Association rules
