@@ -1,4 +1,4 @@
-# Apriori_CSharp_01
+# Apriori_01
 Apriori, C# ,Association rules
 
 work for course 'Electronic Commerce'.
